@@ -1,0 +1,32 @@
+
+body{
+    margin: 0%  ;
+}
+
+.home
+img{
+    width: 100%;
+    height: 100%;
+    
+}
+.Landing2{
+    text-align: center;
+    font-size: large;
+    font-family: Garamond, serif;
+}
+.glassmorphism{
+    width: 80%;
+    height: 7%;
+    border-top: 2px solid #ffffff75;
+    border-left: 2px solid #ffffff75;
+    box-shadow: 5px 5px 12px #00000035;
+    background: #ffffff25;
+    border-radius: 15px;
+    overflow: hidden;
+    backdrop-filter: blur(5px);
+}
+.container{
+    margin: 10px;
+    align-content: center;
+    align-self: center;
+}
